@@ -23,3 +23,5 @@ match priority:
             print(f"\nNote: '{task}' is a low priority task. Consider completing it when you have free time.")
     case _:
         print("\nInvalid priority entered. Please use high, medium, or low.")
+
+print(f"Reminder: Take a short break!")
